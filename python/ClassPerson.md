@@ -6,7 +6,7 @@ A class is a blueprint or template that defines the properties (attributes) and 
 ## The Person Class Step by Step Guide
 
 ### Step 1: Basic Class Structure
-Here's how to create a simple Person class in the Python interpreter:
+Heres how to create a simple Person class in the Python interpreter:
 
 ```python
 class Person:
